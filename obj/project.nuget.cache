@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IKWL1NSt/4onmXYLY5SIDgJ9fTjM1OcCUZMz9CIHd9nYC43OknMjBh56nW3ZLQ7IoGniROv9BkPsffnRAeAj1Q==",
+  "success": true,
+  "projectFilePath": "/home/wiktor/projects/terrain-visualization/terrain-visualization.csproj",
+  "expectedPackageFiles": [
+    "/home/wiktor/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.10/microsoft.aspnetcore.app.ref.6.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
